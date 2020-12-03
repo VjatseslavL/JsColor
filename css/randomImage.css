@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(90deg, rgba(186,186,255,1) 52%, rgba(0,212,255,1) 100%);
+
+}
+
+.container {
+    width: 75%;
+    margin: 2rem auto;
+    height: 65vh;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.btn {
+    background-color: black;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    margin: 40px;
+}
